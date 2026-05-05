@@ -96,7 +96,3 @@ The application now includes a realtime chat feature, powered by Supabase's real
 -   **Lucide React Icons**
 
 ---
-
-## 🌐 Live Demo
-
-[React-SB Todos on Vercel](https://react-sb-todos.vercel.app/)
